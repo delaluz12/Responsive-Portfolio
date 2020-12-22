@@ -1,22 +1,49 @@
 /* Need mylinebreak */
 #mylinebreak {
-    background-color: teal;
+    background-color: rgb(223, 218, 175);
     width: 100%;
     height: 00.5rem;
 
+}
+nav {
+    background-color: rgb(34, 34, 34); 
+}
+nav a{
+    color: rgb(216, 206, 112);
+    font-family: 'Arsenal', sans-serif;
+}
+form {
+    font-family: 'Arsenal', sans-serif;
+}
+/* a:link{
+    color: rgb(216, 206, 112);
+}
+a:visited {
+    color: rgb(216, 206, 112);
+}
+a:hover{
+    color: rgb(233, 180, 81);
+} */
+h1 {
+    font-family: 'Arsenal', sans-serif;
+    
 }
 /* need for sticky footer */
 .myfooter {
     flex-shrink: 0;
 }
+p {
+    font-family: 'Raleway', sans-serif;
+
+}
 /* need for sticky footer */
 .footer{
     text-align: center;
     color: slategray;
-    background-color: rgb(150, 149, 149);
+    background-color: rgb(34, 34, 34);
     flex-shrink: 0;
     padding: 10px;
-    
+    font-family: 'Arsenal', sans-serif;
 }
 /* need for sticky footer */
 .content {
@@ -30,7 +57,7 @@ html, body {
 /* need for sticky footer */
 body{
 
-    background-image: url(./Assets/Images/HawaiiShot_BackgroundResponsivePortfolio-1.jpg);
+    background-image: url(./Assets/Images/HawaiiShot_BackgroundResponsivePortfolio-2.jpg);
     background-attachment: fixed;
     background-size: cover;
     display: flex;
