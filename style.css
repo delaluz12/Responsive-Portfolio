@@ -15,6 +15,10 @@ nav a{
 form {
     font-family: 'Arsenal', sans-serif;
 }
+.HMU {
+    font-family: 'Arsenal', sans-serif;
+    color: rgb(5, 95, 42);
+}
 /* a:link{
     color: rgb(216, 206, 112);
 }
@@ -27,6 +31,10 @@ a:hover{
 h1 {
     font-family: 'Arsenal', sans-serif;
     
+}
+.indexImg {
+    width: 65%;
+
 }
 /* need for sticky footer */
 .myfooter {
