@@ -65,9 +65,9 @@ html, body {
 /* need for sticky footer */
 body{
 
-    background: no-repeat center url("./Assets/Images/HawaiiShot_BackgroundResponsivePortfolio-2.jpg");
-    /* background-origin:border-box;
-    background-repeat: no-repeat; */
+    background-image: url(./Assets/Images/Hawaii2019_BackgroundResponsivePortfolio.jpg);
+    background-attachment: fixed;
+    background-size: cover;
     display: flex;
     flex-direction: column;
 }
