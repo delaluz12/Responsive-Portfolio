@@ -61,7 +61,7 @@ html, body {
 /* need for attempted sticky footer */
 body{
 
-    background-image: url(./Assets/Images/Hawaii2019_BackgroundResponsivePortfolio.jpg);
+    background-image: url("../Images/Hawaii2019_BackgroundResponsivePortfolio.jpg");
     background-attachment: fixed;
     background-size: cover;
     display: flex;
